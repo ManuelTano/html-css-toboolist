@@ -13,9 +13,12 @@ body{
 .titolo {
     background-color: white;
     padding-top: 10px;
-    padding-left: 25px;
-    align-items: center;
-    
+    padding-left: 25px;    
+}
+
+#logo{
+    vertical-align: center;
+
 }
 
 h1{
@@ -39,7 +42,7 @@ h1{
 
 .mini-container {
     width: 800px;
-    height: 800px;
+    height: 600px;
     background-color: white;
     background-position: center;
     border-radius: 10px;
@@ -158,6 +161,11 @@ span{
     padding: 5px;
     color: white;
 }
+
 .font {
     font-size: 20px;
+}
+
+.class {
+    line-height: 20px;
 }
