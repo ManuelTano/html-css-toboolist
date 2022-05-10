@@ -27,7 +27,7 @@ h1{
     display: inline;
     font-weight: bold;
     font-size: 40px;
-    line-height: 50px;
+    vertical-align: middle
 }
 
 
@@ -93,7 +93,6 @@ span{
     color: lightgreen;
     border-radius: 50%;
     padding: 4px;
-    padding
 
 }
 
