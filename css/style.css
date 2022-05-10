@@ -1,0 +1,49 @@
+/* generics */
+* {
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    margin: 0 auto;
+}
+
+/* logo e titolo */
+
+
+.title {
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 25px;
+    align-items: center;
+    
+}
+
+h1{
+    display: inline;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.container {
+    height: 1920px;
+    width: auto;
+    background-color: #f6f8f9;
+    padding-top: 50px;
+}
+
+.mini-container {
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    background-position: center;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: 0 auto;
+   
+}
+
+strong{
+    display: inline;
+    text-align: center;
+    font-size: 12px;
+}
