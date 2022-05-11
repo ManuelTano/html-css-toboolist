@@ -11,6 +11,9 @@ body{
 
 /* logo e titolo */
 
+header{
+    margin-bottom: 50px;
+}
 
 .titolo {
     background-color: white;
@@ -37,13 +40,10 @@ h1{
 
 
 .container {
-
+    margin-bottom: 100px;
+    border-radius: 15px;
     background-color: white;
-    margin-top: 25px;
     width: 800px;
-    padding-left: 50px;
-    padding-bottom: 50px;
-    border-radius: 10px;
     
 }
 
@@ -51,7 +51,7 @@ h1{
 
     background-color: white;
     border-radius: 10px 10px 0 0;
-    border-bottom: 10px solid #f6f8f9;
+    border-bottom: 5px solid #f6f8f9;
 }
 
 span{
@@ -62,8 +62,8 @@ span{
 .button {
     border-radius: 10px 10px 0 0;
     background-color: #FFF;
-    border-bottom: 3px solid #F6F8F9;
     padding: 20px;
+    margin-left: 35px;
 }
 
 #add-task{
@@ -87,6 +87,7 @@ span{
 
 .sottotitolo {
     padding-top: 25px;
+    padding-left: 50px;
     font-size: 25px;
 }
 
@@ -174,4 +175,5 @@ span{
 
 section {
     line-height: 250%;
+    padding-bottom: 25px;
 }
