@@ -95,7 +95,15 @@ span{
     border: 2px solid lightgreen;
     color: lightgreen;
     border-radius: 50%;
-    padding: 4px;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    
+    
 
 }
 
@@ -103,7 +111,18 @@ span{
     border: 2px solid red;
     color: red;
     border-radius: 50%;
-    padding: 4px;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    
+
+    
+
+    
 }
 
 .editorial {
